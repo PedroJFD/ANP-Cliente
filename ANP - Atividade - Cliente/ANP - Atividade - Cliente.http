@@ -1,0 +1,6 @@
+@ANP___Atividade___Cliente_HostAddress = http://localhost:5075
+
+GET {{ANP___Atividade___Cliente_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

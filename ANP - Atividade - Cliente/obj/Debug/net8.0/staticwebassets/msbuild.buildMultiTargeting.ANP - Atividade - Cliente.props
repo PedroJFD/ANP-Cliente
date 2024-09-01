@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ANP - Atividade - Cliente.props" />
+</Project>
