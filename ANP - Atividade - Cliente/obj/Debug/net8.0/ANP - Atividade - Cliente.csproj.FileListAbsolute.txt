@@ -30,3 +30,36 @@ C:\Users\Pedro\Documents\GitHub\ANP-Atividade-Cliente\ANP - Atividade - Cliente\
 C:\Users\Pedro\Documents\GitHub\ANP-Atividade-Cliente\ANP - Atividade - Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.pdb
 C:\Users\Pedro\Documents\GitHub\ANP-Atividade-Cliente\ANP - Atividade - Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.genruntimeconfig.cache
 C:\Users\Pedro\Documents\GitHub\ANP-Atividade-Cliente\ANP - Atividade - Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ref\ANP - Atividade - Cliente.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\appsettings.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\ANP - Atividade - Cliente.exe
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\ANP - Atividade - Cliente.deps.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\ANP - Atividade - Cliente.runtimeconfig.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\ANP - Atividade - Cliente.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\ANP - Atividade - Cliente.pdb
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.sourcelink.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets\msbuild.ANP - Atividade - Cliente.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets\msbuild.build.ANP - Atividade - Cliente.props
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ANP - Atividade - Cliente.props
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ANP - Atividade - Cliente.props
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\scopedcss\bundle\ANP - Atividade - Cliente.styles.css
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - At.7AB60DD4.Up2Date
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\refint\ANP - Atividade - Cliente.dll
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.pdb
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ANP - Atividade - Cliente.genruntimeconfig.cache
+C:\Users\Pedro\Documents\GitHub\ANP-Cliente\ANP - Atividade - Cliente\obj\Debug\net8.0\ref\ANP - Atividade - Cliente.dll

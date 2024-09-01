@@ -6,6 +6,9 @@ using ANP___Atividade___Cliente.Recursos;
 using ANP___Atividade___Cliente.Dtos;
 using System.Xml;
 using System.Xml.Linq;
+using System.Reflection.PortableExecutable;
+using System.Xml.Serialization;
+using static ANP___Atividade___Cliente.Models.Cliente;
 
 namespace ANP___Atividade___Cliente.Controllers
 {
@@ -27,6 +30,21 @@ namespace ANP___Atividade___Cliente.Controllers
             }
 
             return Ok(ClienteXml.ToString());
+        }
+        [HttpGet]
+        public IActionResult List()
+        {
+            XmlCriador.CarregarXml();
+            var serializer = new XmlSerializer(typeof(Clientes));
+            using var reader = new StreamReader("DocumentoXml.XML");
+            var clientes = (Clientes)serializer.Deserialize(reader);
+
+            if (clientes.ListaClientes == null || !clientes.ListaClientes.Any())
+            {
+                return NotFound("Nenhum cliente encontrado.");
+            }
+
+            return Ok(clientes.ListaClientes);
         }
 
         [HttpPost]

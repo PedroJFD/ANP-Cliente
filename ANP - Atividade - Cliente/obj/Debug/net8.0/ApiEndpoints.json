@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "ANP___Atividade___Cliente.Controllers.ClienteController",
+    "Method": "List",
+    "RelativePath": "Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ANP___Atividade___Cliente.Controllers.ClienteController",
     "Method": "Post",
     "RelativePath": "Cliente",
     "HttpMethod": "POST",

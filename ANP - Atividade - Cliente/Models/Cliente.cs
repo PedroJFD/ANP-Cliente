@@ -1,7 +1,16 @@
-﻿namespace ANP___Atividade___Cliente.Models
+﻿using System.Xml.Serialization;
+
+namespace ANP___Atividade___Cliente.Models
 {
     public class Cliente
     {
+        [XmlRoot("Clientes")]
+        public class Clientes
+        {
+            [XmlElement("Cliente")]
+            public List<Cliente> ListaClientes { get; set; }
+        }
+
         public int Id { get; set; }
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
